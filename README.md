@@ -10,9 +10,5 @@
 ### Github Stats
 
 <a href="https://github.com/shawn-bluce">
-    <img src="https://github-readme-stats.vercel.app/api?username=shawn-bluce&show_icons=true&layout=compact&count_private=true&hide_title=true&theme=default" style="width: 48%; max-width: 48%; min-width: 48%;">
-</a>
-
-<a href="https://github.com/shawn-bluce">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shawn-bluce&layout=compact&count_private=true&hide=html&theme=default" style="width: 40%; max-width: 40%; min-width: 40%;">
+    <img src="https://github-readme-stats.vercel.app/api?username=shawn-bluce&show_icons=true&layout=compact&count_private=true&hide_title=true&theme=default&line_height=25">
 </a>
