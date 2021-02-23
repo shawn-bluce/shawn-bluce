@@ -9,6 +9,4 @@
 
 ### Github Stats
 
-<a href="https://github.com/shawn-bluce">
-    <img src="https://github-readme-stats.vercel.app/api?username=shawn-bluce&show_icons=true&layout=compact&count_private=true&hide_title=true&theme=default&line_height=25">
-</a>
+[![Top Langs](https://github-readme-stats.vercel.app/api?username=shawn-bluce&show_icons=true&layout=compact&count_private=true&hide_title=true&theme=default&line_height=25)](https://github.com/shawn-bluce)
