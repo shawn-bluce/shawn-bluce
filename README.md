@@ -1,29 +1,18 @@
-### Hi there 👋
+<h3 align="center">Hi there 👋</h3>
 
-```
- __                  __  __                                                        __        __ 
-/  |                /  |/  |                                                      /  |      /  |
-$$ |____    ______  $$ |$$ |  ______             __   __   __   ______    ______  $$ |  ____$$ |
-$$      \  /      \ $$ |$$ | /      \           /  | /  | /  | /      \  /      \ $$ | /    $$ |
-$$$$$$$  |/$$$$$$  |$$ |$$ |/$$$$$$  |          $$ | $$ | $$ |/$$$$$$  |/$$$$$$  |$$ |/$$$$$$$ |
-$$ |  $$ |$$    $$ |$$ |$$ |$$ |  $$ |          $$ | $$ | $$ |$$ |  $$ |$$ |  $$/ $$ |$$ |  $$ |
-$$ |  $$ |$$$$$$$$/ $$ |$$ |$$ \__$$ | __       $$ \_$$ \_$$ |$$ \__$$ |$$ |      $$ |$$ \__$$ |
-$$ |  $$ |$$       |$$ |$$ |$$    $$/ /  |      $$   $$   $$/ $$    $$/ $$ |      $$ |$$    $$ |
-$$/   $$/  $$$$$$$/ $$/ $$/  $$$$$$/  $$/        $$$$$/$$$$/   $$$$$$/  $$/       $$/  $$$$$$$/ 
-                                      $/                                                        
-```
+<p align="center">
+<a href="https://blog.just666.com">Blog</a>&nbsp;•&nbsp;
+<a href="https://github.com/shawn-bluce">GitHub</a>&nbsp;•&nbsp;
+<a href="https://stackoverflow.com/users/8969875/shawn">StackOverflow</a>&nbsp;•&nbsp;
+<a href="mailto:shawnbluce@gmail.com">Email</a>
+</p>
 
-<!--
-**shawn-bluce/shawn-bluce** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Github Stats
 
-Here are some ideas to get you started:
+<a href="https://github.com/ravizhan">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src=""https://github-readme-stats.vercel.app/api?username=shawn-bluce&count_private=true&show_icons=true style="width: 58%; max-width: 58%; min-width: 58%;">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shawn-bluce&hide=html,css&layout=compact" style="width: 40%; max-width: 40%; min-width: 40%;">
+
+</a>
