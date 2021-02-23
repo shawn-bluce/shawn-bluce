@@ -11,7 +11,7 @@
 
 <a href="https://github.com/ravizhan">
 
-<img src=""https://github-readme-stats.vercel.app/api?username=shawn-bluce&count_private=true&show_icons=true style="width: 58%; max-width: 58%; min-width: 58%;">
+<img src=""https://github-readme-stats.vercel.app/api?username=shawn-bluce&count_private=true&show_icons=true" style="width: 58%; max-width: 58%; min-width: 58%;">
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shawn-bluce&hide=html,css&layout=compact" style="width: 40%; max-width: 40%; min-width: 40%;">
 
