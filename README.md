@@ -8,5 +8,4 @@
 </p>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shawn-bluce&show_icons=true)
-</br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shawn-bluce&hide=javascript,html,css&layout=compact)
